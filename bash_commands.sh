@@ -21,7 +21,7 @@ module load gcc/11.2.0
 module load hisat2/2.0.4
 cd /rds/general/user/ys2121/home/bumblebee/hisat2/iyBomTerr1.2
 
-# extract exon and splice sites from the reference genome using provided python scripts
+# extract exon and splice sites from the reference genome using HISAT2 provided python scripts
 module load anaconda3/personal
 cd /rds/general/user/ys2121/home/bumblebee/reference/iyBomTerr1.2
 python hisat2_extract_splice_sites.py iyBomTerr1.2_genomic.gtf > iyBomTerr1.2.splice_sites.txt
