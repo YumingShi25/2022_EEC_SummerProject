@@ -1,5 +1,6 @@
 # 2022_EEC_SummerProject
-Scripts used in the Imperial College MRes Ecology, Evolution and Conservation Programme summer project
+Scripts used in the Imperial College MRes Ecology, Evolution and Conservation Programme summer project,
+Identifying hub genes by weighted gene co-expression network analysis to better understand molecular functional responses to insecticide exposure in bumblebee (Bombus terrestris)
 
 a summary of bash scripts submitted to HPC for bioinformatic analysis can be found in bash_commands.sh
 section includes:
